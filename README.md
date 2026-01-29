@@ -3,7 +3,7 @@
 
 FitCheck is a **real-time uniform detection and access control system** designed to automate uniform compliance checking at **National University – Fairview**. The system replaces manual inspection with a **computer vision–based solution** integrated with **RFID authentication, database logging, and a physical gate mechanism**.
 
-This project was developed as an **Elective / Capstone Project** for the **Bachelor of Science in Computer Engineering** program.
+This project was developed as an **Elective** for the **Bachelor of Science in Computer Engineering** program.
 
 ---
 
